@@ -4,3 +4,15 @@
     margin-right: auto;
     width: 50%;
 }
+
+body{
+    background: linear-gradient(rgb(226, 46, 46))
+}
+
+table, th, td {
+    border:1px solid;
+}
+
+table [
+    width:
+]
